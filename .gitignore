@@ -1,0 +1,35 @@
+# python cache files 
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+*.o
+*.a
+
+# output files / data files 
+*.csv
+*.xls
+*.xlsx
+*.json
+*.zip
+
+# env
+.env
+.venv
+env/
+venv/
+ENV/
+*.env
+
+# IDE files
+.vscode/
+.DS_Store
+
+# cache directories
+.cache/
+__pycache__/
+.pytest_cache/
+.mypy_cache/
+.dask-worker-space/
