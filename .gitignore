@@ -14,6 +14,7 @@ __pycache__/
 *.xlsx
 *.json
 *.zip
+*.html
 
 # env
 .env
@@ -33,3 +34,5 @@ __pycache__/
 .pytest_cache/
 .mypy_cache/
 .dask-worker-space/
+
+
