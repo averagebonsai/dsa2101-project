@@ -1,2 +1,2 @@
-*.ipynb filter=lfs diff=lfs merge=lfs -text
-*.ipynb* filter=lfs diff=lfs merge=lfs -text
+# Keep notebooks in the repository so GitHub can render their saved outputs.
+# Large data assets, if added later, can still be stored with Git LFS explicitly.

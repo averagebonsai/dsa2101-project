@@ -14,7 +14,7 @@ __pycache__/
 *.xlsx
 *.json
 *.zip
-*.html
+
 
 # env
 .env
